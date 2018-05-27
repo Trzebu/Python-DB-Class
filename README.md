@@ -69,10 +69,10 @@ print(db.insert('users', {'login': 'NewUser', 'password': 'password'}).count())
 >>> 1
 ```
 
-Besides you can use:
+##### Besides you can use:
 * db.results() - get all rows 
 * db.first() - get first row in array with records
-Also in get, getBy and delete you can use this operators:
+##### Also in get, getBy and delete you can use this operators:
 * = 
 * >, <
 * >=, <=
