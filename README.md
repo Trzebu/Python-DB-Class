@@ -1,11 +1,11 @@
 # Python-DB-Class
 A very simple class to simplify basic operations with MySQL
 
-# Requirements
+## Requirements
 * Python 3
 * PyMySql
 
-# How to use
+## How to use
 ### Class init:
 
 ```python
