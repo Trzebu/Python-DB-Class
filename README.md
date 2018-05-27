@@ -72,6 +72,7 @@ print(db.insert('users', {'login': 'NewUser', 'password': 'password'}).count())
 ##### Besides you can use:
 * db.results() - get all rows 
 * db.first() - get first row in array with records
+* db.count() - number of rows
 ##### Also in get, getBy and delete you can use this operators:
 * = 
 * >, <
