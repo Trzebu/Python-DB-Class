@@ -6,7 +6,7 @@ A very simple class to simplify basic operations with MySQL
 * PyMySql
 
 # How to use
-Class init:
+### Class init:
 
 ```python
 db = DB(host, user, password, database, resultToAssoc)
