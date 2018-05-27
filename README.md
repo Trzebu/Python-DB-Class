@@ -2,8 +2,8 @@
 A very simple class to simplify basic operations with MySQL
 
 # Requirements
--Python 3
--PyMySql
+* Python 3
+* PyMySql
 
 # How to use
 Class init:
